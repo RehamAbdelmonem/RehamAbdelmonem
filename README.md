@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Reham Abdelmonem</h1>
-<h3 align="center">A Mobile app developer from Egypt</h3>
+<h3 align="center">Full Stack Developer | Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehamabdelmonem&label=Profile%20views&color=0e75b6&style=flat" alt="rehamabdelmonem" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rehamabdelmone4" target="blank"><img src="https://img.shields.io/twitter/follow/rehamabdelmone4?logo=twitter&style=for-the-badge" alt="rehamabdelmone4" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js , Python**
+-  I’m currently learning **.NET , Python**
 
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **rehamabdelmonem79@gmail.com**
+-  Contact me **rehamabdelmonem79@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
