@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Reham Abdelmonem</h1>
-<h3 align="center">Full Stack Developer | Flutter Developer</h3>
+<h1 align="center">Reham Abdelmonem</h1>
+<h3 align="center">.Net Developer | Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehamabdelmonem&label=Profile%20views&color=0e75b6&style=flat" alt="rehamabdelmonem" /> </p>
-
-
--  I’m currently learning **.NET , Python**
 
 -  Contact me **rehamabdelmonem79@gmail.com**
 
